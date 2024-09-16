@@ -1,6 +1,6 @@
 package Sept.ex_13092024;
 
-public class Lab019_Task {
+public class Lab019_Task1 {
     public static void main(String[] args) {
         int num = 10;
         System.out.printf("%d * %d = %d",num,1,num*1);
