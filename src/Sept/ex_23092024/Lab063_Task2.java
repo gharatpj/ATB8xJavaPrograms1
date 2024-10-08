@@ -35,7 +35,7 @@ public class Lab063_Task2 {
                 System.out.println("Sep");
                 break;
             case 10:
-                System.out.println("Oct");
+                System.out.println("Octr");
                 break;
             case 11:
                 System.out.println("Nov");
